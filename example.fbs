@@ -1,0 +1,9 @@
+namespace Example;
+
+table Person {
+  id: ulong;
+  name: string;
+}
+
+root_type Person;
+
